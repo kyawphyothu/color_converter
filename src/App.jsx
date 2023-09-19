@@ -40,7 +40,7 @@ export default function App() {
 	}, [])
 
 	return (
-		<div className="container max-w-lg m-auto pt-5 pb-10 min-h-screen relative">
+		<div className="container max-w-lg m-auto pt-5 px-3 pb-10 min-h-screen relative">
 			<div className="space-y-5">
 				<h1 className="font-mono font-extrabold text-4xl text-center">Color Converter</h1>
 				<div
